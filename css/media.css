@@ -1,0 +1,28 @@
+@media screen and (min-width:769px) {
+    .dropdown:hover>.dropdown-menu {
+        position: absolute;
+        top: 0;
+        left: 85%;
+    }
+}
+
+@media (min-width: 768px) {
+    .testimonial-box .description {
+        padding: 0 5rem;
+    }
+    .card-blog {
+        margin-bottom: 3rem;
+      }
+}
+
+@media (min-width: 992px) {
+    .testimonial-box .description {
+        padding: 0 8rem;
+    }
+}
+
+@media (min-width: 1200px) {
+    .testimonial-box .description {
+        padding: 0 13rem;
+    }
+}
